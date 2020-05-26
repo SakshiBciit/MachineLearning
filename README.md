@@ -1,2 +1,3 @@
 # MachineLearning
-Machine Learning Minies
+KNN - K Nearest Neighbor Implementation on Iris dataset. 
+
